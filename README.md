@@ -1,5 +1,5 @@
-LaTeX for Human(ist)s
-Materials for the DMDS workshop: LaTeX for Human(ist)s
+LaTeX for Humanists
+Materials for the DMDS workshop: LaTeX for Humanists
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/latex-humanists) with GitHub Pages. 
 
